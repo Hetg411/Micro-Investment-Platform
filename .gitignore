@@ -1,0 +1,15 @@
+# Backend
+Backend/node_modules/
+Backend/.env
+
+# Frontend
+Frontend/vite-project/node_modules/
+Frontend/vite-project/.env
+Frontend/vite-project/.env.*
+!Frontend/vite-project/.env.example
+
+# Vite build
+Frontend/vite-project/dist/
+
+# General
+.DS_Store

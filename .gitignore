@@ -13,3 +13,5 @@ Frontend/vite-project/dist/
 
 # General
 .DS_Store
+
+*.zip
